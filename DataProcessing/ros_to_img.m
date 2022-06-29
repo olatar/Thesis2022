@@ -1,5 +1,5 @@
 %% ROS Toolbox function
-path_bag = '/Volumes/Samsung_T5/SSD_Masteroppgave/EO&IR_Bag/split_bags/212-201_2022-02-22-11-39-36_chunk_0000.bag';
+path_bag = '<bag_path>';
 bag = rosbag(path_bag);
 
 % bag.StartTime 'double'
@@ -7,7 +7,7 @@ bag = rosbag(path_bag);
 % bag.AvailableTopics 'table'
 % bag.AvailableFrames 'cell (with strings)'
 
-rosbag info '/Volumes/Samsung_T5/SSD_Masteroppgave/EO&IR_Bag/split_bags/212-201_2022-02-22-11-39-36_chunk_0000.bag'
+rosbag info ''
 
 
 

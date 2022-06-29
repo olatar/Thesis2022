@@ -1,5 +1,5 @@
 %% ROS Toolbox function
-bagPath = '212-201_2022-02-22-11-39-36_chunk_0004.bag';
+bagPath = '<>';
 sequence = 4;
 idx_offset = 670; % which idx to start from [first frame will be offset + 1]
 

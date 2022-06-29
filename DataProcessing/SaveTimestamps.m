@@ -1,6 +1,6 @@
 %% ROS Toolbox function
 
-FirstbagPath = '212-201_2022-02-22-11-39-36_chunk_0000.bag';
+FirstbagPath = '<bag_path>;
 dirPath = '/Volumes/Samsung_T5/SSD_Masteroppgave/RosBag/split_bags/';
 bag = rosbag([dirPath FirstbagPath]);
 
