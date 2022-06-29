@@ -1,5 +1,4 @@
 # Anomaly Detection in Maritime Environments in LWIR Imaging Using Unmanned Aerial Vehicles
-## Thesis, June 2022
-### Ola Tranum Arnegaard
+### Ola Tranum Arnegaard - Master's thesis June 2022
 
 Code repository for the various files created and used in the research conducted in the Master's thesis.
