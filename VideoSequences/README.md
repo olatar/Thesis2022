@@ -1,4 +1,4 @@
-## Access to Inferred Results In Video Sequences
+## Access to Inferred Results through Video Sequences
 
 **The videos are available at the following [link](https://drive.google.com/drive/folders/1CoUF1gIpiB3AeQx9zpSNoo_agPWRX-3Q?usp=sharing).**
 
