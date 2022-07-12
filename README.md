@@ -15,5 +15,5 @@ Various figures from the paper.
 ### Summary of the underlying techniques explored in the method-review
 <img src="./Figures/AD_groups.png" width="700" >
 
-### Overview of the inference of the deep anomaly detection learning model, AnoGAN
+### Overview of the implemented inference of the deep anomaly detection learning model, AnoGAN
 <img src="./Figures/AnoGAN_inference.png" width="700" >
