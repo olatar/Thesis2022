@@ -9,10 +9,10 @@ Code repository for the various files created and used in the research conducted
 <img src="./Figures/Application.png" width="500" >
 
 ### Flight 1 results from adaptive PCA
-![](./Figures/PCA_Adaptive_Flight1.png)
+<img src="./Figures/PCA_Adaptive_Flight1.png" width="750" >
 
 ### Summary of the underlying techniques explored in the method-review
-![](./Figures/AD_groups.png)
+<img src="./Figures/AD_groups.png" width="500" >
 
 ### Overview of the inference of the deep anomaly detection learning model, AnoGAN
-![](./Figures/AnoGAN_inference.png)
+<img src="./Figures/AnoGAN_inference.png" width="500" >
