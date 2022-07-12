@@ -4,7 +4,4 @@
 
 For each method, the results at each flight are provided.
 
-*Unfortunately, the video sequences are too large to fit in the current repository.*
-*Alternative methods are evaluated in order to more conveniently access the videos.*
-
-
+*The video sequences are too large to fit in the current repository; however, they should be able to be inspected within the browser*
