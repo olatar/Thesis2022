@@ -6,4 +6,4 @@ A contribution from the thesis is the aggregation of the inferred frames from th
 
 For each method, the results at each flight are provided.
 
-*The video sequences are too large to fit in the current repository; however, they should be able to be inspected within the browser*
+*The video sequences are too large to fit in the current repository; however, they should be able to be inspected within the browser.*
