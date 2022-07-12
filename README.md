@@ -6,7 +6,7 @@ Code repository for the various files created and used in the research conducted
 ## Overview
 
 ### Illustration of the application presented in the paper
-![width=50](./Figures/Application.png)
+<img src="./Figures/Application.png" width="50" >
 
 ### Flight 1 results from adaptive PCA
 ![](./Figures/PCA_Adaptive_Flight1.png)
